@@ -25,3 +25,16 @@ print("Happy coding!")
 
 # minus operation
 print(20 - 5)
+
+# multiplication
+print(4 * 6)
+# division
+print(32 / 4)
+# modulus
+print(10 % 3)
+
+print("This is the end of the program.")
+print("Goodbye, Python world!")
+print("See you next time!")
+print("Keep practicing and have fun!")
+print("Stay curious and keep learning!")
