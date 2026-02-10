@@ -55,3 +55,17 @@ print(type(name))
 print(type(age))
 print(type(a + b))
 print(type(is_learning))
+
+
+print(3 * "Hi")
+
+a = bool("False")
+print(a)
+
+name = "Allah Ditta"
+age = 24
+
+message = f"My name is {name} and I am {age} years old."
+print(message)
+
+print(type(message))
