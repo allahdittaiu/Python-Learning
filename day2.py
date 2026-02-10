@@ -113,3 +113,16 @@ print(type(name))
 print(type(age))
 print(type(f"My name is {name} and I am {age} years old."))
 print(type(message))
+
+a = 10
+b = 20
+print(a + b)
+print(type(a + b))
+print(type(a))
+print(type(b))
+print(type(a + b))
+print(type(a))
+print(type(b))
+print(type(a + b))
+print(type(a))
+print(type(b))
